@@ -5,7 +5,7 @@ An intelligent Streamlit-based web application that generates educational questi
 ---
 
 ## 🎯 Project Overview
-
+ 
 **Study Buddy AI** is an interactive quiz platform designed to help students learn effectively through AI-generated questions. It leverages:
 
 - **LangChain + Groq LLM** for intelligent question generation
