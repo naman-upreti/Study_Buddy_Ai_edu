@@ -6,7 +6,7 @@
 - **Create a Dockerfile**  
   Write a `Dockerfile` in the root of your project to containerize the app.
 
-- **Create Kubernetes Manifest Directory**  
+- **Create Kubernetes Manifest Directory** 
   Make a directory named `manifests/` to store all Kubernetes deployment YAML files.
 
 - **Create a VM Instance on Google Cloud**
